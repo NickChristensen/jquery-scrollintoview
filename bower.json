@@ -1,0 +1,21 @@
+{
+  "name": "jquery-scrollintoview",
+  "homepage": "https://github.com/NickChristensen/jquery-scrollintoview",
+  "authors": [
+    "Nick Christensen <nick.g.christensen@gmail.com>"
+  ],
+  "description": "Animated scroll into view jQuery plugin",
+  "main": "jquery.scrollintoview.js",
+  "keywords": [
+    "jquery",
+    "scroll"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
